@@ -1,0 +1,26 @@
+body {background-color: pink;
+    font-family:'Shadows Into Light', cursive;
+    font-size:20px;
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items:center;
+}
+.boxes {
+border: 3px dashed #167C80;
+  border: 0.5rem outset #CD5C5C;
+  outline: 0.5rem solid #FA8072;
+  box-shadow: 0 0 0 2rem #DDA0DD;
+  border-radius: 12px;
+  margin: 2rem;
+  padding: 1rem;
+ }
+.style{
+    border: 3px dashed #E6E6FA;
+  border: 0.5rem solid #E6E6FA;
+  outline: 0.5rem dashed #4B0082;
+    box-shadow: 0 0 0 0.5rem #DDA0DD;
+  border-radius: 12px;
+     margin: 2rem;
+  padding: 1rem;
+}
